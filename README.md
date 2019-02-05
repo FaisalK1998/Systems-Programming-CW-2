@@ -29,7 +29,7 @@ not be hardcoded into the client code. Better courseworks will handle error cond
 (e.g. if the requested file does not exist) which will be displayed by the client.
 
 
-The Remote System Information Service Client
+The Remote System Information Service Client:
 
 
 A simple interactive text-based client is to be implemented which will connect to the
@@ -38,7 +38,7 @@ be the list of functions given above with an additional option to quit the clien
 Note that the client should be interactive and menu-driven.
 
 
-The Remote File Service and System Information Service Server
+The Remote File Service and System Information Service Server:
 
 
 The server must listen for Socket connections on port 50031 and must start a new thread
